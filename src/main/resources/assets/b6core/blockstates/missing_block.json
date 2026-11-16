@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "b6core:block/missing_block"
+    }
+  }
+}
